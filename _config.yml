@@ -74,7 +74,9 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-omboga-047982218/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bi0kpWZf%2BTxe9SR1BUB4WDQ%3D%3D"
-
+    - email: "Email"
+      icon: "fab-fw fa-email"
+      url:  "https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GBRAFw"
 footer:
   links:
     - label: "Twitter"
