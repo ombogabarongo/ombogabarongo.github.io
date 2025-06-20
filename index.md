@@ -7,6 +7,6 @@ author_profile: true
 ---
 I am an **AWS Cloud Practitioner**, **Data Analyst** and **Data protection specialist**. I love learning, researching and consulting
 I have the following projects:
--EDA Capstone project on Penguin Dataset
--UkulimaSols Project
--Information Security Administration
+- EDA Capstone project on Penguin Dataset
+- UkulimaSols Project
+- Information Security Administration
