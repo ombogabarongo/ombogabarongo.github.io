@@ -36,4 +36,25 @@ UkulimaSOLS is a digital platform that helps smallholder farmers access markets,
 
 <iframe src="https://drive.google.com/file/d/1MTrshi0QsNjWqBrrWmvO47xvxkhlZC23/preview" width="640" height="480" allow="autoplay"></iframe>
 
+**4. Manage Compliance Roles and Manage Sensitive Info Types**
+
+This project focused on validating the functionality of Azure Rights Management Services (RMS) and customizing branding to enhance the user experience during information protection workflows.
+
+ i). Verified Azure RMS Functionality
+Confirmed that Azure RMS was active and properly configured using the Microsoft Purview portal and PowerShell. This ensured that data protection features like document encryption and access restrictions were working correctly.
+
+ii). Modified Default Branding Template
+Updated the organization's default RMS template to include a custom logo, display name, and support URL. This creates a more trusted and branded experience for end-users when protecting documents.
+
+iii). Tested Default Branding Template
+Tested the appearance of the modified branding by protecting a document and accessing it through Microsoft Word and Outlook. Verified that branding updates were correctly applied for all users.
+
+iv). Created Custom Branding Template
+Designed a separate template with distinct branding for a specific user group or department. This allowed differentiated user experiences within the same organization.
+
+v). Tested Custom Branding Template
+Logged in as a test user assigned to the custom policy and verified that the new branding was visible when accessing protected content, confirming that conditional branding policies were effective.
+
+<iframe src="https://drive.google.com/file/d/1BRwQj1VOVHYTRZ3_2LMgcP9M7UV7TeBM/preview" width="640" height="480" allow="autoplay"></iframe>
+
 
