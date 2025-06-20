@@ -42,10 +42,12 @@ Search encrypted files within SharePoint without compromising security.
 Open and share encrypted PDFs directly in Microsoft Edge.
 
 - **AWS Cloud Security Real World Scenario**
+
 Cloud security is essential for protecting modern farming software platforms that manage data like crop records, delivery schedules, and storage inventories. Using AWS (Amazon Web Services), platforms can secure sensitive information through encryption, control user access with IAM, and monitor threats in real time using tools like CloudTrail and GuardDuty. These features help prevent data breaches, unauthorized access, and service disruptions that could harm farmers and their operations.
 For AgriTech solutions like UkulimaSOLS, AWS ensures that farmers' information is safe, delivery systems run smoothly, and storage records are accurate and protected. By using secure cloud storage (Amazon S3), automated backups, and compliance tools, AWS allows developers and organizations to build trustworthy, scalable platforms that smallholder farmers can rely on boosting productivity while safeguarding their digital future.
 
 -**Securing Data and Identities: Real-World Solutions with Microsoft 365**
+
 Microsoft’s compliance and identity security solutions—such as Microsoft Entra (Azure AD), Microsoft Purview, and Microsoft Defender—play a crucial role in helping organizations safeguard sensitive data, control access, and meet regulatory requirements. Tools like Conditional Access and Identity Protection prevent unauthorized logins, while Information Protection and Data Loss Prevention (DLP) secure documents and block the sharing of confidential data through emails, chats, or cloud uploads. Insider Risk Management and Communication Compliance help detect suspicious employee behavior and policy violations, ensuring workplace integrity and data confidentiality.
 
 In real-world use, industries like healthcare, finance, legal, and government benefit greatly from these capabilities. A healthcare facility might restrict access to patient data using MFA, while a law firm encrypts legal files with sensitivity labels. Financial institutions enforce DLP to prevent leaks of client data, and public agencies use Compliance Manager and eDiscovery to simplify audits and meet regulations like GDPR. These features go beyond IT—they support trust, accountability, and secure digital transformation.
