@@ -10,3 +10,5 @@ I have the following projects:
 - EDA Capstone project on Penguin Dataset
 - UkulimaSols Project
 - Information Security Administration
+
+I’m passionate about leveraging data science, security and cloud technologies to improve livelihoods, enable secure systems, and create innovative platforms that solve critical challenges in agriculture, education, and development. I thrive in collaborative environments, team-player and bring a growth mindset, grit, and a commitment to continuous learning
