@@ -13,7 +13,7 @@ Through this project, I enhanced my skills in data wrangling, visualization, and
 
 <iframe src="https://drive.google.com/file/d/1NUrCNhqqYQczQ724ktBFNSbnBYdYdHFI/preview" width="640" height="480" allow="autoplay"></iframe>
 
-**2. Information Security Administration
+**2. Information Security Administration**
 - **Using Microsoft Purview**
 
 Assigned compliance roles – ensured that only authorized users (like Compliance Admins) can manage and enforce data governance policies across the organization.
@@ -30,7 +30,7 @@ Tested and validated classifiers – confirmed that the custom and EDM-based pol
 
 <iframe src="https://drive.google.com/file/d/18M1G2jTUAoKYdNiy40DkDeQmEXKE6NeX/preview" width="640" height="480" allow="autoplay"></iframe>
 
-**3. UkulimaSols Project **
+**3. UkulimaSols Project**
 
 UkulimaSOLS is a digital platform that helps smallholder farmers access markets, coordinate delivery, and use community storage. It connects farmers directly to buyers for fair pricing, streamlines produce transport, and offers shared storage to reduce post-harvest losses and improve earnings. 
 
