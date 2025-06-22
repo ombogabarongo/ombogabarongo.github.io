@@ -57,4 +57,14 @@ Logged in as a test user assigned to the custom policy and verified that the new
 
 <iframe src="https://drive.google.com/file/d/1BRwQj1VOVHYTRZ3_2LMgcP9M7UV7TeBM/preview" width="640" height="480" allow="autoplay"></iframe>
 
+**5. Data Loss Prevention (DLP) with Microsoft 365**
 
+**Key activities included:**
+- Creating and modifying DLP policies (including via PowerShell)
+- Testing policies in simulation mode
+- Monitoring file activity and building policies in Microsoft 365 Defender
+- Onboarding devices and configuring Endpoint DLP
+- Reviewing and analyzing DLP data through Activity Explorer and PowerShell
+
+  <iframe src="https://drive.google.com/file/d/1RzYtZi1m2BDuuBUojhTJgkUHhrRYQZmf/preview" width="640" height="480" allow="autoplay"></iframe>
+  
