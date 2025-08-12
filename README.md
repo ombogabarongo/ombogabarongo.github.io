@@ -1,4 +1,4 @@
-# Daniel Barongo Omboga Data scientist. Python. AWS Cloud Practitioner. Information security administrator
+# Daniel Barongo Omboga  AWS Cloud Practitioner. Information security administrator . Data Analyst
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
