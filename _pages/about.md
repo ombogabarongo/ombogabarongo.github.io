@@ -7,6 +7,7 @@ I’m a Computer Security and Forensics graduate with certification in Basic Dat
 
 I wish to apply my expertise in data science and cloud computing to design secure, scalable, and user-friendly systems that will  improve food distribution and reduce post-harvest losses in Africa and the world vision 2030.
 
+
 **Core Skills & Tools**
 
 -Cloud & Infrastructure: AWS, Azure, Linux Administration
@@ -28,3 +29,13 @@ An agricultural data platform aimed at helping farmers make data-driven decision
 -**Information Security Administration 🔒**
 Implemented access controls, security monitoring, and compliance protocols for secure systems.
 
+
+**What Drives Me**
+
+I believe in leveraging data science, security, and cloud technologies to:
+
+-Improve livelihoods
+
+-Enable secure systems
+
+-Create innovative platforms that solve challenges in agriculture, education, and development
