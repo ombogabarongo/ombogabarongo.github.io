@@ -16,6 +16,15 @@ I wish to apply my expertise in data science and cloud computing to design secur
 -Security & Compliance: Information Security Administration, Data Protection, IAM, Network Security
 
 -Other Tools: Git, Docker, CI/CD pipelines
-**RESUME**
-<iframe src="https://drive.google.com/file/d/1Bm0paANTGgXTw6GbvI2Emq9U3QU_oUZX/preview" width="640" height="480" allow="autoplay"></iframe>
+
+**Featured Projects**
+
+-**EDA Capstone – Penguin Dataset 🐧**
+Exploratory Data Analysis project uncovering patterns and trends in penguin populations using Python and Seaborn.
+
+-**UkulimaSols Project 🌱**
+An agricultural data platform aimed at helping farmers make data-driven decisions.
+
+-**Information Security Administration 🔒**
+Implemented access controls, security monitoring, and compliance protocols for secure systems.
 
